@@ -1,0 +1,186 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+ background-color: transparent!important;
+ transition: 0.3s linear;
+}
+#nav.vlol{
+    border-color: #c1dfe0!important;
+}
+.container-fluid{
+ background-color:#c1dfe0;
+}
+.d-1{
+    transition: all .3s;
+}
+#vlol .fixed{
+    background-color: red!important;
+}
+
+.logo{
+    color: #045959;
+    font-size: 36px;
+    font-style: italic;
+}
+.nav-li{
+    padding: 0px;
+    float: right;
+    -webkit-transition: 0.3s ease;
+    -moz-transition: 0.3s ease;
+    -o-transition: 0.3s ease;   
+}
+li a{
+   text-decoration: none;
+   color: white;
+   font-size: 30px;
+}
+
+.roof{
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 1500px ;
+    margin: 0px;
+    margin-left: -180px;
+
+    padding: 0px;
+    margin-top: -20px;
+}
+.wel-1{
+    margin-left: 330px;
+    margin-top: 90px;
+    color: red;
+    font-size: 80px;
+    font-style: oblique;
+}
+.wel-2{
+    margin-left: 330px;
+    color: red;
+    font-size: 80px;
+    font-style: oblique;
+}
+.button a{
+    color: white;
+    text-decoration: none;
+    background-color: pin;
+    background-color: rebeccapurple;
+    margin: 850px;
+    padding: 13px;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.d-1{
+    float: left;
+
+}
+.bed-1{
+    width: 350px;
+    height: 350px;
+    margin: 15px;
+    margin-left: 80px;
+    padding: 15px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.l-1{
+    text-decoration: none;
+    color:black;
+}
+.li{
+    width: 200px;
+    height: 200px;
+}
+.d-1 {
+    text-align: center;
+    display: flex;
+}
+.row{
+    float: left;
+}
+.d-1 :hover{
+   border-radius: 100%;
+}
+.men-1{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: 30px;
+}
+.p-1{
+    float: right;
+    font-size: 32px;
+    margin-top: 60px;
+    font-style: italic;
+    color: #797b80;
+}
+.img-3{
+    width: 250px;
+    height: 250px;
+    margin-top: 30px;
+    border-radius: 50%;
+    float: right;
+    margin-right: 30px;
+}
+.p-2{
+     float: left;
+    font-size: 32px;
+    margin-top: 60px;
+    font-style: italic;
+    color: #797b80;
+}
+.img-4{
+   width: 100%;
+   margin-top: 80px;
+   height: 600px;
+}
+.map-2{
+    margin-top: 70px;
+   margin-left: 100px;
+}
+.map-3{
+    float: right;
+    margin-top: -550px;
+    margin-right: 100px;
+
+}
+
+#map-5{
+    width: 550px;
+    height: 550px;
+}
+.contact {
+    margin-left: 230px;
+}
+.contact a{
+    padding: 10px;
+}
+.col-md-2{
+    width: 300px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
